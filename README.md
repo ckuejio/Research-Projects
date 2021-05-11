@@ -3,8 +3,6 @@ bbarad.github.io
 Freely licensed personal website for Benjamin Barad
 
 ## How to clone this website:
-1. Fork it and change the repository name to USERNAME.github.io (mine was bbarad, but that won't work for you!)
-2. Delete CNAME (you can add a new one later)
 3. Delete my publications in _data/publications.yml and add your own, using the existing ones as a template.
 4. Update index.md and contact.md
 5. Remove my blog posts from _posts and optionally add your own. If you want a blog, uncomment the "blog" lines in _data/navlinks.yml
