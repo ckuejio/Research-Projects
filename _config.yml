@@ -1,14 +1,2 @@
-name: "Benjamin Barad"
-description: "The Personal Homepage for Benjamin Barad"
-
-url: "http://benjaminbarad.com"
-
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "blog/page:num"
-
-permalink: pretty
-highlighter: rouge
-markdown: kramdown
-kramdown: 
-  parse_block_html: true
+name: "Christopher K. Uejio"
+description: "Harmful Algal Bloom Public Complaints Complement Surveillance"
