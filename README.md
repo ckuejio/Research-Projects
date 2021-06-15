@@ -1,6 +1,6 @@
-bbarad.github.io
+ckuejio.github.io
 ================
-Freely licensed personal website for Benjamin Barad
+Freely licensed personal website for Christopher K. Uejio
 
 ## How to clone this website:
 3. Delete my publications in _data/publications.yml and add your own, using the existing ones as a template.
